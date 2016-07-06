@@ -121,6 +121,7 @@
     <Content Include="Scripts\jquery-2.1.0.min.js" />
     <Content Include="Scripts\knockout-3.1.0.debug.js" />
     <Content Include="Scripts\knockout-3.1.0.js" />
+    <None Include="Scripts\_references.js" />
     <Content Include="Web.config" />
     <Content Include="Scripts\jquery-2.1.0.min.map" />
     <Content Include="Views\Shared\_Layout.cshtml" />
